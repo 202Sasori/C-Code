@@ -1,0 +1,14 @@
+D:\NET\WinForm\WinForm\bin\Debug\WinForm.exe.config
+D:\NET\WinForm\WinForm\bin\Debug\WinForm.exe
+D:\NET\WinForm\WinForm\bin\Debug\WinForm.pdb
+D:\NET\WinForm\WinForm\obj\Debug\WinForm.csproj.AssemblyReference.cache
+D:\NET\WinForm\WinForm\obj\Debug\WinForm.csproj.SuggestedBindingRedirects.cache
+D:\NET\WinForm\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+D:\NET\WinForm\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+D:\NET\WinForm\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+D:\NET\WinForm\WinForm\obj\Debug\WinForm.exe
+D:\NET\WinForm\WinForm\obj\Debug\WinForm.pdb
+D:\NET\WinForm\WinForm\obj\Debug\WinForm.GUI.PhanSo2.resources
+D:\NET\WinForm\WinForm\obj\Debug\WinForm.GUI.HangHoa1.resources
+D:\NET\WinForm\WinForm\obj\Debug\WinForm.GUI.PhanSo1.resources
+D:\NET\WinForm\WinForm\obj\Debug\WinForm.GUI.HangHoa2.resources
