@@ -111,5 +111,11 @@ namespace Lab_11
             this.Hide();
             menu.ShowDialog();
         }
+
+        private void lbReport_Click(object sender, EventArgs e)
+        {
+            GUI.frmDetailCustomer detailCustomer = new GUI.frmDetailCustomer();
+            detailCustomer.ShowDialog();
+        }
     }
 }

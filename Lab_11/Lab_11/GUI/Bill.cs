@@ -109,5 +109,11 @@ namespace Lab_11.GUI
             this.Hide();
             menu.ShowDialog();
         }
+
+        private void lbReport_Click(object sender, EventArgs e)
+        {
+            GUI.frmSellInMarch sellInMarch = new GUI.frmSellInMarch();
+            sellInMarch.ShowDialog();
+        }
     }
 }

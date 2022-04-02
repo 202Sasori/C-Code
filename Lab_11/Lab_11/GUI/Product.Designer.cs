@@ -43,6 +43,7 @@
             this.btnAdd = new System.Windows.Forms.Button();
             this.dgvProduct = new System.Windows.Forms.DataGridView();
             this.lbBackMenu = new System.Windows.Forms.Label();
+            this.lbReport = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvProduct)).BeginInit();
             this.SuspendLayout();
             // 
@@ -52,7 +53,7 @@
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label5.Location = new System.Drawing.Point(355, 67);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(137, 32);
+            this.label5.Size = new System.Drawing.Size(138, 32);
             this.label5.TabIndex = 25;
             this.label5.Text = "Hàng hóa";
             // 
@@ -192,11 +193,23 @@
             this.lbBackMenu.Text = "Menu";
             this.lbBackMenu.Click += new System.EventHandler(this.lbBackMenu_Click);
             // 
+            // lbReport
+            // 
+            this.lbReport.AutoSize = true;
+            this.lbReport.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.lbReport.Location = new System.Drawing.Point(12, 50);
+            this.lbReport.Name = "lbReport";
+            this.lbReport.Size = new System.Drawing.Size(59, 20);
+            this.lbReport.TabIndex = 28;
+            this.lbReport.Text = "Report";
+            this.lbReport.Click += new System.EventHandler(this.lbReport_Click);
+            // 
             // Product
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(896, 630);
+            this.Controls.Add(this.lbReport);
             this.Controls.Add(this.lbBackMenu);
             this.Controls.Add(this.dgvProduct);
             this.Controls.Add(this.label5);
@@ -238,5 +251,6 @@
         private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.DataGridView dgvProduct;
         private System.Windows.Forms.Label lbBackMenu;
+        private System.Windows.Forms.Label lbReport;
     }
 }
