@@ -43,6 +43,7 @@ namespace BTL.DAL.clsClass
             strConnection = "";
             strConnection += "Data Source =" + Server + ";";
             strConnection += "Initial Catalog =" + Database + ";";
+            //strConnection += "Persist Security Info = True;";
             strConnection += "User ID =" + UserID + ";";
             strConnection += "Password =" + Password + ";";
             return strConnection;

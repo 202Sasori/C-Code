@@ -198,10 +198,12 @@ namespace BTL
             
         }
         //Khi click đăng ký sẽ chạy hàm Validate
-        public string strConectionString;
+       
         DAL.clsClass.clsConnect conn = new DAL.clsClass.clsConnect("sa", "123", "BTL_QLBH", @"MSI\SQLEXPRESS");
-        public string userName;
-        public string userPassword;
+        public string strConectionString { get; set; }
+        string userName = "a";
+        string userPassword = "a";
+        
         private void loginBtn_Click(object sender, EventArgs e) {
             i = 0;
             formStyle = "login";
@@ -209,33 +211,11 @@ namespace BTL
             isVaidate.Start();
             hideBox.Focus();
             strConectionString = conn.getConectionString();
-            //userName = bunifuTextBox5.Text;
-            //userPassword = bunifuTextBox6.Text;
-            try
-            {
-                string query = "Select * from TaiKhoan where TenTaiKhoan = '" + bunifuTextBox5.Text + "' and 'MatKhau = " + bunifuTextBox6.Text + "'";
-                SqlDataAdapter da = new SqlDataAdapter(query, strConectionString);
-                DataTable dt = new DataTable();
-                da.Fill(dt);
-                if(dt.Rows.Count > 0)
-                {
-                    userName = bunifuTextBox5.Text;
-                    userPassword = bunifuTextBox6.Text;
-                    //checkUserInfo(userName, userPassword);
-                    MessageBox.Show("Hello");
-                }
-                else
-                {
-                    userName = bunifuTextBox5.Text;
-                    userPassword = bunifuTextBox6.Text;
-                    checkUserInfo(userName, userPassword);
-                    MessageBox.Show("Something wrong");
-                }
-            }
-            catch
-            {
-                MessageBox.Show("Error");
-            }
+            //MessageBox.Show(strConectionString);
+            mainForm.strConectionString = strConectionString;
+            mainForm.ShowDialog();
+            
+            conn.Connect();
         }
         //Các hàm xử lý, Kiểm tra
         //Hiển thị Password
