@@ -1,0 +1,11 @@
+D:\NET\TestDB\TestDB\bin\Debug\TestDB.exe.config
+D:\NET\TestDB\TestDB\bin\Debug\TestDB.exe
+D:\NET\TestDB\TestDB\bin\Debug\TestDB.pdb
+D:\NET\TestDB\TestDB\obj\Debug\TestDB.csproj.AssemblyReference.cache
+D:\NET\TestDB\TestDB\obj\Debug\TestDB.csproj.SuggestedBindingRedirects.cache
+D:\NET\TestDB\TestDB\obj\Debug\TestDB.Form1.resources
+D:\NET\TestDB\TestDB\obj\Debug\TestDB.Properties.Resources.resources
+D:\NET\TestDB\TestDB\obj\Debug\TestDB.csproj.GenerateResource.cache
+D:\NET\TestDB\TestDB\obj\Debug\TestDB.csproj.CoreCompileInputs.cache
+D:\NET\TestDB\TestDB\obj\Debug\TestDB.exe
+D:\NET\TestDB\TestDB\obj\Debug\TestDB.pdb

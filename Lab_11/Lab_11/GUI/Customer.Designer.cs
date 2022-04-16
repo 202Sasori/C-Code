@@ -44,6 +44,7 @@
             this.dgvCustomer = new System.Windows.Forms.DataGridView();
             this.lbBackMenu = new System.Windows.Forms.Label();
             this.lbReport = new System.Windows.Forms.Label();
+            this.cbbSDT = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvCustomer)).BeginInit();
             this.SuspendLayout();
             // 
@@ -203,11 +204,21 @@
             this.lbReport.Text = "Report";
             this.lbReport.Click += new System.EventHandler(this.lbReport_Click);
             // 
+            // cbbSDT
+            // 
+            this.cbbSDT.FormattingEnabled = true;
+            this.cbbSDT.Location = new System.Drawing.Point(531, 103);
+            this.cbbSDT.Name = "cbbSDT";
+            this.cbbSDT.Size = new System.Drawing.Size(139, 24);
+            this.cbbSDT.TabIndex = 16;
+            this.cbbSDT.SelectedIndexChanged += new System.EventHandler(this.cbbSDT_SelectedIndexChanged);
+            // 
             // Customer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(818, 604);
+            this.Controls.Add(this.cbbSDT);
             this.Controls.Add(this.lbReport);
             this.Controls.Add(this.lbBackMenu);
             this.Controls.Add(this.dgvCustomer);
@@ -251,6 +262,7 @@
         private System.Windows.Forms.DataGridView dgvCustomer;
         private System.Windows.Forms.Label lbBackMenu;
         private System.Windows.Forms.Label lbReport;
+        private System.Windows.Forms.ComboBox cbbSDT;
     }
 }
 

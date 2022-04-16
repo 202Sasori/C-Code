@@ -12,11 +12,13 @@ namespace Generic_Test.GUI
 {
     public partial class Bill : Form
     {
+        //Tạo kết nối tới cơ sở dữ liệu
         DBConnect cn = new DBConnect();
         public Bill()
         {
             InitializeComponent();
         }
+        //Tạo class generic để lưu dữ liệu từ cơ sở dữ liệu
         private List<T> GetList<T>(IDataReader reader)
         {
             List<T> list = new List<T>();

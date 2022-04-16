@@ -101,6 +101,7 @@ namespace Lab_11
         private void Customer_Load(object sender, EventArgs e)
         {
             Display();
+            loadDatatoCombobox();
         }
 
         private void lbBackMenu_Click(object sender, EventArgs e)
@@ -116,6 +117,51 @@ namespace Lab_11
         {
             GUI.frmDetailCustomer detailCustomer = new GUI.frmDetailCustomer();
             detailCustomer.ShowDialog();
+        }
+
+        private void cbbSDT_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            /*
+            SqlConnection connection = new SqlConnection(strConectionString);
+            SqlCommand cm = new SqlCommand("Select SDT from Customer");
+            SqlDataAdapter da = new SqlDataAdapter(cm, connection);
+            DataSet ds = new DataSet();
+            da.Fill(ds);
+            cbbSDT.DataSource = ds.Tables["SDT"];
+            */
+        }
+        private void loadDatatoCombobox()
+        {
+            SqlConnection conn = new SqlConnection(strConectionString);
+            //create a new datatable
+            DataTable table = new DataTable();
+            //create our SQL SELECT statement
+            string sql = "Select SDT from KhachHang";
+            try
+            {
+                conn.Open();
+                //then we execute the SQL statement against the Connection using SqlDataAdapter
+                SqlDataAdapter da = new SqlDataAdapter(sql, conn);
+                //we fill the result to dt which declared above as datatable
+                da.Fill(table);
+                //we add new entry to our datatable manually 
+                //becuase Select Course is not Available in the Database
+                table.Rows.Add("Select SDT");
+                //set the combobox datasource 
+                cbbSDT.DataSource = table;
+                //choose the specific field to display
+                cbbSDT.DisplayMember = "SDT";
+                cbbSDT.ValueMember = "SDT";
+                //set default selected value
+                cbbSDT.SelectedValue = "Select SDT";
+            }
+            catch (Exception ex)
+            {
+                //this will display some error message if something 
+                //went wrong to our code above during execution
+                MessageBox.Show(ex.ToString());
+            }
+
         }
     }
 }

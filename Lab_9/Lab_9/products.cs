@@ -16,7 +16,8 @@ namespace Lab_9
         {
             InitializeComponent();
         }
-        string strCon = @"Data Source=MSI\SQLEXPRESS;Initial Catalog=QLBH;User ID=sa;Password=123456@Ab";
+        string strCon = @"Data Source=MSI\SQLEXPRESS;Initial Catalog=QLBH;
+        Integrated Security=True";
         SqlConnection conn = null;
         private void products_Load(object sender, EventArgs e)
         {

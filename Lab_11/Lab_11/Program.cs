@@ -16,7 +16,7 @@ namespace Lab_11
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new GUI.chart());
+            Application.Run(new GUI.Login());
         }
     }
 }

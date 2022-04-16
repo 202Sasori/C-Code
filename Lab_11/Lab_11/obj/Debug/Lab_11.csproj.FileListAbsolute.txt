@@ -35,3 +35,5 @@ D:\NET\Lab_11\Lab_11\obj\Debug\Lab_11.GUI.frmReportProduct.resources
 D:\NET\Lab_11\Lab_11\obj\Debug\Lab_11.GUI.frmDetailCustomer.resources
 D:\NET\Lab_11\Lab_11\obj\Debug\Lab_11.GUI.frmSellInMarch.resources
 D:\NET\Lab_11\Lab_11\obj\Debug\Lab_11.GUI.chart.resources
+D:\NET\Lab_11\Lab_11\obj\Debug\Lab_11.csproj.AssemblyReference.cache
+D:\NET\Lab_11\Lab_11\obj\Debug\Lab_11.GUI.frmCustomer.resources

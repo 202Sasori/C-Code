@@ -1,0 +1,15 @@
+D:\NET\MyFirstProgram\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.exe
+D:\NET\MyFirstProgram\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.deps.json
+D:\NET\MyFirstProgram\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.runtimeconfig.json
+D:\NET\MyFirstProgram\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.dll
+D:\NET\MyFirstProgram\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.pdb
+D:\NET\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.csproj.AssemblyReference.cache
+D:\NET\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.AssemblyInfoInputs.cache
+D:\NET\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.AssemblyInfo.cs
+D:\NET\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.csproj.CoreCompileInputs.cache
+D:\NET\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.dll
+D:\NET\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\refint\MyFirstProgram.dll
+D:\NET\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.pdb
+D:\NET\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.genruntimeconfig.cache
+D:\NET\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\ref\MyFirstProgram.dll
