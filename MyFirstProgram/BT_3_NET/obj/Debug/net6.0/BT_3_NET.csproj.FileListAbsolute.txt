@@ -1,0 +1,15 @@
+D:\NET\MyFirstProgram\BT_3_NET\bin\Debug\net6.0\BT_3_NET.exe
+D:\NET\MyFirstProgram\BT_3_NET\bin\Debug\net6.0\BT_3_NET.deps.json
+D:\NET\MyFirstProgram\BT_3_NET\bin\Debug\net6.0\BT_3_NET.runtimeconfig.json
+D:\NET\MyFirstProgram\BT_3_NET\bin\Debug\net6.0\BT_3_NET.dll
+D:\NET\MyFirstProgram\BT_3_NET\bin\Debug\net6.0\BT_3_NET.pdb
+D:\NET\MyFirstProgram\BT_3_NET\obj\Debug\net6.0\BT_3_NET.csproj.AssemblyReference.cache
+D:\NET\MyFirstProgram\BT_3_NET\obj\Debug\net6.0\BT_3_NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET\MyFirstProgram\BT_3_NET\obj\Debug\net6.0\BT_3_NET.AssemblyInfoInputs.cache
+D:\NET\MyFirstProgram\BT_3_NET\obj\Debug\net6.0\BT_3_NET.AssemblyInfo.cs
+D:\NET\MyFirstProgram\BT_3_NET\obj\Debug\net6.0\BT_3_NET.csproj.CoreCompileInputs.cache
+D:\NET\MyFirstProgram\BT_3_NET\obj\Debug\net6.0\BT_3_NET.dll
+D:\NET\MyFirstProgram\BT_3_NET\obj\Debug\net6.0\refint\BT_3_NET.dll
+D:\NET\MyFirstProgram\BT_3_NET\obj\Debug\net6.0\BT_3_NET.pdb
+D:\NET\MyFirstProgram\BT_3_NET\obj\Debug\net6.0\BT_3_NET.genruntimeconfig.cache
+D:\NET\MyFirstProgram\BT_3_NET\obj\Debug\net6.0\ref\BT_3_NET.dll

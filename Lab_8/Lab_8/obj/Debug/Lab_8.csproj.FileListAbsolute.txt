@@ -1,0 +1,12 @@
+D:\NET\Lab_8\Lab_8\bin\Debug\Lab_8.exe.config
+D:\NET\Lab_8\Lab_8\bin\Debug\Lab_8.exe
+D:\NET\Lab_8\Lab_8\bin\Debug\Lab_8.pdb
+D:\NET\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.AssemblyReference.cache
+D:\NET\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.SuggestedBindingRedirects.cache
+D:\NET\Lab_8\Lab_8\obj\Debug\Lab_8.number.resources
+D:\NET\Lab_8\Lab_8\obj\Debug\Lab_8.Properties.Resources.resources
+D:\NET\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.GenerateResource.cache
+D:\NET\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.CoreCompileInputs.cache
+D:\NET\Lab_8\Lab_8\obj\Debug\Lab_8.exe
+D:\NET\Lab_8\Lab_8\obj\Debug\Lab_8.pdb
+D:\NET\Lab_8\Lab_8\obj\Debug\Lab_8.GUI.triangle.resources

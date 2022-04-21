@@ -1,0 +1,15 @@
+D:\NET\MyFirstProgram\Bai_2_NET\bin\Debug\net6.0\Bai_2_NET.exe
+D:\NET\MyFirstProgram\Bai_2_NET\bin\Debug\net6.0\Bai_2_NET.deps.json
+D:\NET\MyFirstProgram\Bai_2_NET\bin\Debug\net6.0\Bai_2_NET.runtimeconfig.json
+D:\NET\MyFirstProgram\Bai_2_NET\bin\Debug\net6.0\Bai_2_NET.dll
+D:\NET\MyFirstProgram\Bai_2_NET\bin\Debug\net6.0\Bai_2_NET.pdb
+D:\NET\MyFirstProgram\Bai_2_NET\obj\Debug\net6.0\Bai_2_NET.csproj.AssemblyReference.cache
+D:\NET\MyFirstProgram\Bai_2_NET\obj\Debug\net6.0\Bai_2_NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET\MyFirstProgram\Bai_2_NET\obj\Debug\net6.0\Bai_2_NET.AssemblyInfoInputs.cache
+D:\NET\MyFirstProgram\Bai_2_NET\obj\Debug\net6.0\Bai_2_NET.AssemblyInfo.cs
+D:\NET\MyFirstProgram\Bai_2_NET\obj\Debug\net6.0\Bai_2_NET.csproj.CoreCompileInputs.cache
+D:\NET\MyFirstProgram\Bai_2_NET\obj\Debug\net6.0\Bai_2_NET.dll
+D:\NET\MyFirstProgram\Bai_2_NET\obj\Debug\net6.0\refint\Bai_2_NET.dll
+D:\NET\MyFirstProgram\Bai_2_NET\obj\Debug\net6.0\Bai_2_NET.pdb
+D:\NET\MyFirstProgram\Bai_2_NET\obj\Debug\net6.0\Bai_2_NET.genruntimeconfig.cache
+D:\NET\MyFirstProgram\Bai_2_NET\obj\Debug\net6.0\ref\Bai_2_NET.dll

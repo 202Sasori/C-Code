@@ -1,0 +1,7 @@
+D:\NET\MyFirstProgram\Static_Test\bin\Debug\Static_Test.exe.config
+D:\NET\MyFirstProgram\Static_Test\bin\Debug\Static_Test.exe
+D:\NET\MyFirstProgram\Static_Test\bin\Debug\Static_Test.pdb
+D:\NET\MyFirstProgram\Static_Test\obj\Debug\Static_Test.csproj.CoreCompileInputs.cache
+D:\NET\MyFirstProgram\Static_Test\obj\Debug\Static_Test.exe
+D:\NET\MyFirstProgram\Static_Test\obj\Debug\Static_Test.pdb
+D:\NET\MyFirstProgram\Static_Test\obj\Debug\Static_Test.csproj.AssemblyReference.cache
